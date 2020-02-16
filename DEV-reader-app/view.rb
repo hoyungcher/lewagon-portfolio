@@ -8,17 +8,17 @@ class View
 
   def ask_for_url
     puts "Path?"
+    print "https://dev.to/"
     gets.chomp
   end
 
   def ask_for_index(posts)
     show_info(posts)
-    puts "Index?"
+    puts "Article number?"
     index = gets.chomp.to_i - 1
   end
 
   def show_content(posts, index)
     puts posts[index].content
   end
-
 end

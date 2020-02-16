@@ -14,4 +14,6 @@ With the app, the user is able to
 
 ## Specs
 
-This app is coded with Ruby 2.6.5 and can be opened in Terminal through the file 'app.rb'. All posts are saved onto the CSV file 'posts.csv'. There are already a few existing entries in the CSV file.
+This app is coded using Ruby 2.6.5 and can be opened in Terminal through the file 'app.rb'. Nokogiri gem required.
+
+All posts are saved onto the CSV file 'posts.csv'. There are already a few existing entries in the CSV file.

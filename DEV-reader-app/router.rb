@@ -32,6 +32,7 @@ class Router
   end
 
   def stop
+    puts "Bye Bye!"
     @running = false
   end
 

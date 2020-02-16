@@ -39,7 +39,7 @@ Another formatter. This one is a ""meta formatter"" that uses other formatters. 
 Vim
 This will essentially turn VSCode into VIM for editing. I gave this a shot and didn't look back. It might take you a couple of weeks to get proficient with it but after that you'll be golden. This is in my opinion an excellent plugin and it will make you a lot more efficient. Check out this article for a very good introduction to this plugin.
 
-There you go! Those are all my plugins for Ruby on Rails development. Did I miss one? Let me know on Twitter!","Magnus Skog","false"
+There you go! Those are all my plugins for Ruby on Rails development. Did I miss one? Let me know on Twitter!","Magnus Skog","true"
 "molly_struve/level-up-your-ruby-skillz-working-with-arrays-hnn","Level Up Your Ruby Skillz: Working With Arrays","When I first started out, there was a senior engineer that I worked with who was a wizard when it came to working with arrays. He taught me all the best tricks to writing succinct and clean code when it came to dealing with arrays. Here are the methods that I find the most useful and I think are good to have in your Ruby toolbox right from the start.
 
 If you want to jump straight to the code without the explanations checkout the cheatsheet at the bottom!
@@ -261,281 +261,191 @@ Let's break down what is happening here given what we learned above.
 
 You made it to the end!!! Hopefully you are feeling a little more comfortable with Ruby hashes now and have a couple more methods in your toolbox that you can use. If you have any questions or anything needs clarification please don't hesitate to drop a question in the comments!
 
-If you want a quick reference for these methods I made a handy cheat sheet with just the code from each example.  ","Molly Struve","true"
-"https://dev.to/lampewebdev/going-down-the-youtube-tech-guru-hole-or-how-you-can-spot-scam-artists-208e","🤑🥳😎Going down the youtube tech guru hole or how you can spot scam artists","I find it fascinating what you can find on youtube these days.
+If you want a quick reference for these methods I made a handy cheat sheet with just the code from each example.  ","Molly Struve","false"
+"https://dev.to/claracodes/resources-for-coding-bootcamp-graduates-4i5p","Resources for Coding Bootcamp Graduates","After graduating from a coding bootcamp myself in December 2017 I felt lost. I made quite a big shift from a very traditional, very non-technical industry: law. Before learning how to code, I wasn't immersed in the technical world, and had little idea where to find good resources to learn even more.
 
-People are selling you shortcuts to your dreams and a secret that only they know!
+Now, I am a teacher for coding newbies myself. In order to facilitate the journey into coding I put together a non-exhaustive list of learning resources for my students. You can find the sources on my GitHub as well as down below.
 
-You know the guy in front of an expensive car that was a multi-millionaire in his 20ths and now wants to help you to become also a multi-millionaire!
+Let me know what you think, and if you have more resources to share, please put those in the comments!
 
-It is so easy that everybody can do it! Yes, you and you can do it! Even a baby could do it!
 
-You just need to give him or her 3000 or 10000 or 300 Zelda rupees!
 
-It is that easy! You will make that money back in no time!
-
-Sarcasm over
-
-Let's go over some tactics used by these kinds of scam artists and how you can spot them.
-
-
-
-
-  Promises to good to be true
-
-
-One thing we have to understand those scam artists, in general, are good storytellers. I mean excellent storytellers. Keep this in mind for the rest of this post.
-
-This is how most of there ""sell pitches"" because this is what they are, will start.
-
-The first thing they will do they will target the right audience. They do that on YouTube, Facebook, and Instagram. So you will see a short ad before the actual coding video you wanted to watch.
-
-That video has a formula.
-1) A hook. This hook can be something like
-
-
-""So, you want to be a javascript freelancer?""
-""Don't push skip because ...""
-""Don't you want to be ...?  here is how.""
- etc. etc. etc...
-
-
-You can see a pattern. This is on purpose and designed to make you think that if you skip, you will not hear some crucial and life-changing information.
-
-It is a psychology trick. It is the same trick as with endless scrolling on Facebook or Instagram. ""Maybe when I just scroll long enough, I will find something that I really need"". We all know we will just end up in some viral videos that don't make any sense, or you will watch some cats.
-
-Okay, now that you are listing to them. We come into phase two.
-
-2) Getting to know each other
-
-
-""Hey, I'm ... I'm a freelance developer making 1 Million when I was 21 years old.""
-""Hey, I'm ... I'm an ex-googler, ex-facebook, and ex-Netflix employe.""
-""Hey, I'm ... <Insert something that is either too good to be true or something that looks amazing but isn't""
-
-
-The intent of this is to do at least two things to you. The first one is to establish a connection with you. We as humans trust people more the more we know the other person. This is why influencer marketing works better than dull old commercials because, in your brain, a friend is selling something to you and not a strange guy from the TV.
-
-The second one is to show you what that scam artist has achieved and why you should listen to him/her. ""1 Million when I was 21 years"". Would you ever introduce yourself to strangers on the streets like that? ""Hey, I'm Warren Buffett, and I'm the richest man on earth."" Please say that you would not do that.
-
-So now you want to become like that person, right? I mean, who does not want to be 21 and have 1 Million Zelda rupees?
-
-If someone is telling you, ""Hey, I worked at a big company, look at me!"" what does it mean? You have to question that. That person could be anything at that company, and just because you worked at a big company does not mean that you are good at what you are doing. I know brilliant people that work at small startups. This sentence is just there to make their next claims heavier so they can hit you harder!
-
-Keep in mind you don't know that person. You only know a produced and scripted video of that person. So yeah, don't forget to question everything, and yes, question this blog post!
-
-3) Showing some random charts/numbers
-Now that you and the scam artist know each other, it is time to show you some numbers!
-
-This is where they will either show you some whiteboard and draw random numbers on it, or they will show you some charts. Even if they show you a screenshot of some online bank interface, should you blindly believe in that? I think by now, you know the answer.
-
-If it is a website, it is super easy to change such numbers on a website without even using photoshop. Just open the dev tools and find the right HTML element and just change it! Here I have 100, 000 000 followers, on dev.to!
-
-
-
-All of these numbers are fake! But don't they look great? This took me 2 minutes!
-
-So yeah, to keep this short. Don't trust any chart you haven't faked yourself!
-
-But why is this added? To make you want to see how that guy or girl made it! It is just there to hook you even more in! Like people are making 120k at google pfff, this guy is making a million!
-
-They are catering to your desires, and this works best on people how are already in a bad situation in their lives. So be very careful with random numbers that people are showing to you!
-
-4) Buzzwords overkill!
-
-Now the ""how"" parts will start. Since the goal is to sell you 'education'.
-
-This sentence is a real sentence from a video that is selling some online course:
-""Listen up; you will be learning the basics of javascript, you gone be learning advanced object-oriented programming, you be learning DOM, GitHub, Visual Studio Code, Command Line, Version Control, AJAX, JSON, API, ES6 and more...""
-
-It is like firing a machine gun with buzzwords. Of course, you can just say: You will be learning the minimum basics of frontend web development. Does this sound that good? No. Besides, the part of having javascript in advanced object-oriented programming in one sentence does not make any sense. You will probably know most of these buzzwords from somewhere.
-
-Again this comes down to make you feel familiar with that scam artist. ""Oh, he/she is using and teaching the same things I want to learn"".
-
-Yes, because you can not do anything on the frontend without javascript and all the rest. Like Visual Studio Code that is just right the most popular code editor. I mean, you need a code editor to write code. Having GitHub and Version Control in the same sentence is kind of redundant because GitHub's main feature is to be an interface for Version Control tolls. Yeah, I know you can do more with it now, but still, it is kind of pointless to name both of them.
-
-Why is ""DOM"" on that list? I have no clue. Even if you learn ReactJS or VueJS or angular, it still comes down to the DOM. 🤷‍♀️
-
-Let's get back to the topic.
-
-4) The course information
-
-So now usually you will get a very little info about what is actually in that course. Just to have a real example again. In the Video with the buzzwords, you would get 15 modules with 30+ hours of video content. This means around 2 hours of content for each module.
-
-I mean 30+, and you will be a profitable developer? This must be the best teacher in the world! From knowing nothing about development to becoming a millionaire in 30+ hours.
-
-Sorry but that is not reasonable for 99% of people. You will probably learn something, but you will only learn things that are already for free on the internet. You will get more like an introduction to web development.
-
-Also, this part is usually the shortest because if they would stay too long on that part, you would also see the flaws of it!
-
-5) ""We have proof that it works.""
-
-Fake testimonials! Now the scam artist will show you some random guy/girl that made it with there course! Don't believe in a single one of them!
-
-Why? It is so easy to get fake testimonials even if it is a video!
-You can buy them for 5 dollars at fiverr.com. Or just go to the 'Spokespersons Videos' section. Or just google ""buy testimonials"". This is another rabbit hole I would love to dig into.
-
-I mean, you don't even need to buy a fake testimonial. Just ask someone that is right now taking that course how he/she likes it and boom. Fake testimonial for free! Or just ask a random friend. 🤷‍♀️
-
-Also, one thing you have to keep in mind: Even if they a real, these people don't get these jobs or money just because of one online course. Usually, they already have some experience or have a University degree in something similar to computer science.
-
-Also, keep in mind they are usually showing between 1 and 3 people, and yeah, you can say its because of the length of the video they don't want to show more. If they have like 10 000 people taking there courses, then three people are not very significant? If you take 10 000 random people, then yeah, some of them will have more success then others. It is nothing special, and just how the world works.
-
-What they could do is now show a chart with statistics, right? Yes! But you will never see that because it would look bad. Then again, they could also fake that.
-
-6) Money-back guarantee!
-
-You can get your money back until the last second of the online course! Yes, even at the last minute! Just with 1 sec to go! This sounds amazing, right?
-
-No, and here is why: You not even finished the course and probably did not make any money and you don't know if you will earn any money, but what was the promise to you? That you will be rich in X months, right?
-
-So why do I not have that guarantee for X months after the course ends? Or why not pay after you made X amount of money?
-
-I have seen both possibilities on some other online courses!
-
-I mean, it is straightforward why: because the claims they make will not be reached by 99% of the people attending in the time they promise you would!
-
-7) The sell
-
-Now that you have listened to pumping music and all these ""benefits"" you should feel hyped and highly motivated to make that money!
-
-Now they will ask you if they can be your mentor, and you need to be quick because the registration is limited in some way either by time or by places or by both.
-
-The scam artist will say how much his life has changed and how much your life will change after that course.
-
-So yeah, have you ever seen a youtube video that will go offline after X hours, and if that video reaches 500 views, it will delete itself?
-
-Usually, what you want is the opposite, right? You want the video to stay as long online as it can and to have millions of viewers?
-
-Have you ever seen a ""Limited Edition"" of something? Like a limited edition of a bottle of coke? Is inside still the same coke as before?
-
-""Supreme"" is entirely based on that strategy. They will produce X amount of clothes and then never again.
-
-Here it is the same. It is called ""Scarcity marketing"". If you want to know more about that, just google it. You will find plenty of examples.
-
-The end of the video!
-
-Now you either saying: okay that was rediculous
-or you will buy it!
-
-
-
-
-  outro
-
-
-Just to make some points clear:
-
-
-Not all online courses are bad
-You should inform yourself before taking them
-Usually, you can get all the necessary content for free. One of those websites is freecodecamp.org
-
-I don't want to name any of these tech YouTubers by name. I want you to see the general scam.
-
-
-I hope you liked that post! If you want a follow up, please comment, like and share. So I can know that you are interested in content like that!
-
-👋Say Hello! Instagram | Twitter | LinkedIn | Medium | Twitch | YouTube","Michael ""lampe"" Lazarski","false"
-"https://dev.to/madebycrevans/5-approaches-that-helped-me-launch-an-mvp-in-a-weekend-djf","5 approaches that helped me launch an MVP in a weekend","Last year I launched Lancerlist, an online platform that allows freelancers to promote themselves in their city and companies to find local freelancers.
-
-I wrote an article about how I designed, built and launched the MVP (Minimum Viable Product) over a weekend, and this proved popular with designers, developers, and makers alike.
-
-I thought I’d write a follow up piece about 5 higher-level concepts or approaches I practiced during the development process that helped me achieve the goal of launching the MVP over a weekend. Let’s get into it.
 
 
   
   
-  Define what success looks like
+  Ruby on Rails
 
 
-Before laying a single-pixel or writing a single line of code, I defined what success would look like in a minimum viable product trying to solve my problem. The problem, in this case, was ‘making local freelancers discoverable’.
+At Le Wagon you learn our beloved Ruby and Rails - and there is a lot more to find out about it, have a look at these tutorials:
 
-I defined that success trying to solve that problem, would be freelancers seeing the value of the platform and sign up through their own free will. It would validate or invalidate the problem in the eyes of freelancers and prove the demand for a solution.
 
-This influenced I approached the design phase, specifically, the landing page displayed all the cities current freelancers were from, thus providing a sense of social proof. It also influenced the sign up and onboarding flow, I wanted to make the act of signing up as frictionless as possible.
 
-With such a specific focus I could cut out ideas I had because they did not help me achieve that goal, this ended up saving design and development time normally associated with bloated product scope.
+https://gorails.com/series - a plethora of tutorials
 
-The results of this were clear, 13% of unique visitors that hit the homepage ended up signing up and 92% of freelancers that signed up, completed their profile.
+https://thoughtbot.com/upcase/ (they also have courses on advanced git!)
+
 
 
   
   
-  Keep it simple
+  Code Katas
 
 
-Furthering from the first point, cutting out unnecessary features was a key factor in being able to design, build and launch the MVP over a weekend. When you start a new project, it is common to a million ideas and features that all sound great, this project was no different.
-
-The method I use to cut out all non-essential features is to create a graph, on the Y axis, impact of feature and on the X axis, time to build. I then plotted all my ideas on the graph, from this I had a visual representation of my ideas and could discern which would have the most impact for time spent.
+If you need to prepare for that next interview, have a look at code katas. But don't get frustrated - these challenges are at the verge of coding, problem solving and mathematical skills which is a very specific skill of itself.
 
 
+https://www.codewars.com/
+https://www.hackerrank.com/
 
-This method combined with my first concept, helps narrow the scope of the project down to a core feature or user flow. The benefits are similar, less time spent on designing and developing features that don’t impact the success of the project. Having a narrow scope also helps with writing copy and producing marketing materials as you an explicitly define the value your target users with receive.
-
-For Lancerlist, the core feature I chose was the freelancer discovery flow. This would be the value proposition presented to users, providing the most impact on our defined success while being achievable in the time.
-
-The effect of this was a simple discovery flow that allowed freelancers to be found through their city and then through their skillset. I could have made a more complex search algorithm but that would increase development time and not have a major impact on the success.
-
-I then used the time/impact graph to create the projects roadmap, building more features in the months after launch.
 
 
   
   
-  Don’t reinvent the wheel
+  Javascript courses
 
 
-The development phase for Lancerlist took approximately 11 hours all in. How was this possible? I didn’t reinvent the god damn wheel.
-
-By using the technology you know, you can apply the knowledge you’ve spent years learning directly towards building your solution, you’re not spending time learning the intricacies of a new language and the complications of deploying it.
-
-Whether you’re building the project in PHP or Next.JS, you are trying to validate an idea, solve a problem, that is the purpose of an MVP. It can be tempting to use the latest fancy pants JavaScript framework but that won’t impact your success, there’s a time and place for that learning.
-
-For Lancerlist, my technology stack was mainly based on Laravel, I’ve used it for years, I know the ins and outs of it. By using what I already have experience with, I could reuse code from other projects, this saved me a huge chunk of time that would elsewise be used following tutorials and fighting bugs.
-
-I also used packages to speed up development, if something’s been done before, there’s likely a package that can help you. These packages are likely well tested, handle edge cases and are well documented, all help save you time and get you closer to the outcome you desire.
-
-I don’t care what you use, code, no-code, it doesn’t matter, just don’t reinvent the wheel.
+Javascript is one of the coding languages with the furthest reach (according to GitHub survey) and has been in the top ten ever since. Time to master it with these tutorials:
 
 
-  
-  
-  Reusable code
+
+https://javascript.info/ a very extensive course with a lot of small and interesting details covered - more than just the average course!
+
+https://learnjavascript.online/ - made by a long-term teacher for Le Wagon and expert in his field Jad
 
 
-Another approach I took to the development was to consciously write code in a reusable way. In practice, this means creating a simple design system and componentising elements.
+https://wesbos.com/courses/ - Wes Bos is famous for his video courses (paid courses! - but Wagon alumni have gotten reductions before when they bought in bulks, so shooting him a message might be worth it) if you want to see if you like his teaching style, check out his free course:
+https://www.javascript30.com/
 
-With Lancerlist, I created an extremely simple design system, I made a CSS variables file that had all the projects colours, spacing, type-scales, and grid systems defined. I could then use these variables throughout the application. This has multiple effects. It speeds up development as I don’t need to remember 10 different hex codes each time, I can just remember the variable name (e.g. $color-primary). It also improves the quality and consistency across the product, a heading on one page is the same size as a heading on another page. Simple stuff but worth mentioning.
-
-I also componentised some of the common elements across the project, for example, buttons. By creating button components, the look, feel and functionality of a button is consistent across the whole product, providing a better user experience. This also speeds up development, every time I want a button, I can now just import the button, provide some parameters and we’re good to go instead of building from scratch each time. Another plus for components is if I choose to change the button design in the future, I only have to modify it once and it will be applied throughout the product.
-
-By making a conscious effort to make common elements reusable, you can improve development speed, code quality, and user experience. Also, your future self with love you!
 
 
   
   
-  Repurpose tools you know
+  Newsletters/Communities
 
 
-The last concept I used is similar to “don’t reinvent the wheel”, repurpose the tools you know, even if it’s for things they’re not designed for.
+In order to be up to date about the latest changes, newsletters and news pages are really helpful.
 
-Any tool that takes less time to setup than it takes you to design and build is worth implementing. Need to send welcome emails? Setup a Zapier integration that watches for new users in your database and sends and email when it detects one. Need to do customer support? Hook up slack to handle requests in an interface you already know and love.
 
-For Lancerlist, I added a list of the 1,000 most populous cities but I knew this wouldn’t cover everybody, instead of custom building a custom city selection feature I just added a button saying “City not here? Request it”, this opened up a Twitter intent, with the copy pre-written and a blank space where they could add the city. Was it elegant? Not really. Did it work? Absolutely! 100’s of people requested cities through this system.
 
-It may not scale, it doesn’t need to, you can build a custom solution later once your idea has been validated and/or the tool becomes unmanageable.
+Ruby weekly is a good start as it is the offical newsletter and has a nice mixture of news on the Ruby language, tutorials and hints
+
+TurboBreakFast of course I have to mention Dimitris (teacher and developer for Le Wagon Berlin) Turbo Breakfast with curated picks from tech, economics, design and things that make the web beautiful.
+
+Navigating your software development career a newsletter with advice how to create, maintain and push your career in web/software development
+
 
 
   
   
-  Final thoughts
+  Communities
 
 
-So, there we have it, these were a few of the approaches I used that helped me design, build and launch Lancerlist’s minimum viable product over a weekend. I hope some of these concepts can help you while you’re building your next product.
 
-Agree or disagree with anything you’ve heard here? You can find me at @MadeByCrevans on Twitter.
 
-This article was originally published on my blog at madebycrevans.com.
+https://dev.to/ (the page is built in Rails)
 
-Lancerlist today has over 1,000 freelancers registered and thousands of people using the platform each month. If you’re curious, you can view it live at Lancerlist.co.","Chris Evans","false"
-"https://dev.to/helenanders26/what-do-you-find-difficult-about-sql-and-databases-o31","What Do You Find Difficult about SQL and Databases?","","Helen Anderson","false"
+
+
+  
+  
+  Twitter accounts
+
+
+If you enjoy twitter, here are some interesting accounts to follow, but that's just a start, because... honestly, there is tons of devs on twitter. Just find the ones that interest you the most :)
+
+
+
+eileencodes - works for Github and is part of the Rails core team
+
+dhh - the creator of Rails and author of bestselling books. If you like strong opinions, check his account
+girslwhocode
+
+emmawedekind - content creator and twitter famous
+
+wesbos - author of the above mentioned javascript courses
+
+
+
+  
+  
+  Open Source Contributions
+
+
+Open Source is a great way to learn from the community, and see how other experienced developers write code. You may also have to play around with other technologies, which also correlates to a lovely way to learn!
+
+
+
+First Time Contributors - To understand how to make an open source contribution:
+
+Open Source Projects - Here is a website that helps navigate open-source projects that welcome first time contributors
+
+
+
+  
+  
+  Coding Conferences
+
+
+What better way to network and learn than to attend conferences?
+
+
+  
+  
+  Frontend
+
+
+
+
+You Gotta Love Frontend - Global Frontend event that travels around
+
+Javascript Conferences - A website to find Javascript Conferences
+
+
+
+  
+  
+  Ruby
+
+
+
+
+Ruby Conferences - Ruby Conferences
+
+
+
+  
+  
+  All (Conference Searching Websites)
+
+
+
+
+Conference Monkey - Search for miscellaneous conferences
+
+Conference.tech - Search for miscellaneous conferences
+
+
+
+  
+  
+  Misc
+
+
+Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explaination for error messages and recommendations for gems:
+
+
+https://github.com/Eschults/useful_stuff
+
+
+If you want to get a more in depth view into computer science, try this Havard Course. The lectures are very interesting, the challenges are hard, but they provide good in depth knowledge of what actually happens when we code.
+
+
+CS50
+
+
+IF you are interested in learning an indepth knowledge of JavaScript.. You Don't Know JavaScript is considered by some to be the holy bible of JavaScript
+
+
+
+You Don't Know JS - Kyle Simpson's You Don't Know Javascript","Clara","true"
