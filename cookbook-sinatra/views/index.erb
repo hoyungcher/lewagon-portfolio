@@ -1,0 +1,12 @@
+<h1>Welcome to the cookbook!</h1>
+<ol>
+  <% @cookbook.all.each_with_index do |recipe, index| %>
+    <li>
+      <p><strong><%= recipe.name %></strong> (<%= recipe.prep_time %>)</p>
+      <p>Difficulty: <%= recipe.difficulty %></p>
+      <button type="submit" action='/remove'>Destroy</button>
+      <br>
+    </li>
+  <% end %>
+</ol>
+<a href="new">Create new recipe</a>
